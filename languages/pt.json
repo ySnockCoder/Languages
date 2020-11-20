@@ -3,4 +3,54 @@
   "languagenameshort": "pt",
   "flag": "🇵🇹",
   "link": "https://github.com/OfficialMagic8/Languages/blob/master/languages/pt.json"
+  "it": "{CROSS} **{USER}, por favor cita algum membro valido ou ID.**",
+    "mention": [
+      "**{USER}, o meu prefixo para este servidor é:** `{PREFIX}`",
+      "Escreva `{PREFIX}help` para a lista de comandos. Tambem podes colocar um comando antes de `{PREFIX}help` para detalhes especificos.",
+      "",
+      "*Percisas de ajuda bruta? Entra no [Support Server]({INVITE}) ou vê o no [Guide]({GUIDE})!*"
+    ],
+    "true": "true",
+    "false": "false",
+    "none": "none",
+    "unexpectederror": [
+      "{CROSS} **{USER}, ocorreu um erro inesperado.**",
+      "",
+      "{INFO} Por favor, junte-se ao nosso [Support Server]({INVITE}) para assistencia."
+    ],
+    "8ball": {
+      "asksomething": "{CROSS} **{USER}, por favor faça um pergunta de sim ou não**",
+      "customresponses": "{CROSS} **{USER}, por favor entre em contato com um administrador para alterar o modo 8ball ou definir respostas personalizadas.**",
+      "customresponsesadmin": [
+        "{CROSS} **As respostas personalizadas estão ativadas, mas nenhuma foi adicionada!**",
+        "",
+        "{INFO} Para adicionar novas respostas, use `{PREFIX}s 8ball setreplies resposta 1 | resposta 2 | resposta 3`"
+      ],
+      "askedquestion": "{TAG} pergunta feita #{NUMBER}",
+      "question": "Questão",
+      "answer": "Resposta",
+      "replies": {
+        "all": [
+          "Absolutamente não",
+          "Absolutamente!",
+          "De acordo com a minha religião, não.",
+          "Ahhh, tu és uma dessas pessoas.",
+          "Quase sempre!",
+          "E os porcos voam - ah, espera, pensei que estávamos apenas a falar sobre coisas que são possíveis.",
+          "Estás bem? Pessoas normais não perguntam isso.",
+          "És sempre assim?",
+          "Assim que melhorares as tuas notas.",
+          "Assim que a tua cabeça de cú aprender.",
+          "Pergunta-me de novo, não estou a perceber..",
+          "Pergunta ao teu papá",
+          "Pergunta à tua ex",
+          "Pede permissão aos teus pais primeiro.",
+          "Pergunta à tua madrasta",
+          "O quê, Puta?",
+          "A sério, Puta?",
+          "Bruh mas que caralhos- simplesmente não.",
+          "Bruh não consegues perguntar isso.",
+          "Chama a tua avó, seu burro de merda.",
+          "Chame a polícia quando perceber o quão burro tú és",
+          "Correto",
 }
